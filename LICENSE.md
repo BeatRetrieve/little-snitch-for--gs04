@@ -1,4 +1,4 @@
-
+Little Snitch for macOS rare Script: secure-notes & cross-device-sync is the best Little Snitch for macOS script, featuring secure-notes and cross-device-sync. Secure, efficient,
 
 
 
